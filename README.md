@@ -1,7 +1,8 @@
+<div align="center">
 ### Olá, eu sou o Thiago Carlos 👨🏾‍💻
 
 - 🌱 Atualmente eu estudo HTML, CSS e JavaScript
-
+</div>
 
 <div align="center">
   <a href="https://github.com/tthiagocarlosdev">
