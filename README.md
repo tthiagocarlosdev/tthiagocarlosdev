@@ -1,7 +1,7 @@
 <div align="center">
 ### Olá, eu sou o Thiago Carlos 👨🏾‍💻
 
-🌱 Atualmente eu estudo HTML, CSS e JavaScript
+🌱 Atualmente eu estudo desenvolvimento web :computer_mouse: :keyboard: :desktop_computer:
 </div>
 
 <div align="center">
